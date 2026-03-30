@@ -17,7 +17,6 @@
 - [시작하기](#-시작하기)
 - [프로젝트 구조](#-프로젝트-구조)
 - [사용 방법](#-사용-방법)
-- [라이선스](#-라이선스)
 
 ---
 
@@ -190,28 +189,6 @@ npm run build
 | `demo-before.html` | 대시보드 운영 뷰 | QA 담당자가 실제 사용하는 화면 |
 | `demo-after.html` | 스냅샷 공유 뷰 | 내보내기 후 협업 부서에 전달하는 읽기 전용 화면 |
 
-> **주의**: 데모 데이터 특성상 불러오기·이슈 생성·내보내기 버튼은 동작하지 않습니다.
+> **주의**: 데모 데이터 특성상 불러오기·이슈생성·내보내기 버튼은 동작하지 않습니다.
 
----
 
-## 🔐 보안 주의사항
-
-- **Personal Access Token은 절대 공개 저장소에 커밋하지 마세요**
-- `.env` 파일에 토큰을 저장하고 `.gitignore`에 추가
-- 로컬 환경에서만 테스트하거나 프라이빗 저장소 사용
-
----
-
-## 📝 라이선스
-
-MIT License - 자유롭게 사용, 수정, 배포 가능합니다.
-
----
-
-## 💬 피드백 & 기여
-
-이슈나 개선 제안이 있으신가요?
-
-- 🐛 버그 리포트: [Issues](https://github.com/your-username/jira-dashboard/issues)
-- 💡 기능 제안: [Discussions](https://github.com/your-username/jira-dashboard/discussions)
-- 🤝 코드 기여: Pull Request 환영합니다!
