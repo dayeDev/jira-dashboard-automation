@@ -4,7 +4,7 @@
 
 에픽 키 하나만 입력하면 진척률, 우선순위, 담당자별 현황을 한 화면에서 확인할 수 있습니다.
 
-**[→ 라이브 데모 보기](https://dayedev.github.io/jira-dashboard/)**
+**<a href="https://dayedev.github.io/jira-dashboard/" target="_blank" rel="noopener noreferrer">→ 라이브 데모 보기</a>**
 
 <img width="500" height="auto" alt="image" src="https://github.com/user-attachments/assets/2df31745-66c8-4e08-8839-10237a969654" />
 
